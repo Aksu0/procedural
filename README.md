@@ -1,0 +1,2 @@
+# procedural
+Her şey.
